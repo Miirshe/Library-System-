@@ -1,0 +1,17 @@
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.Cache
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\bin\Debug\Guna.UI.dll
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.RegisterUsers.resources
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.myDash.resources
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Dash.resources
+C:\Users\dc\Documents\Visual Studio 2013\SEMETER 5\lesson1\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.UserLogin.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

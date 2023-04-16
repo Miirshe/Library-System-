@@ -1,0 +1,38 @@
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\bin\Release\DatabaseConnection.exe.config
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Author.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Book.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Category.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Dash.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.myDash.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Publisher.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.ReturnBook.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Member.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Properties.Resources.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.RegisterUsers.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.LendBook.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.SpalashScreen.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserLogin.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.ForgetPassword.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserDash.resources
+C:\Users\dc\Documents\Visual Studio 2013\Projects\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserProfile.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\bin\Release\DatabaseConnection.exe.config
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Author.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Book.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Category.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Dash.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.myDash.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.ForgetPassword.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Publisher.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.ReturnBook.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Member.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.Properties.Resources.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.RegisterUsers.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.LendBook.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.SpalashScreen.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserDash.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserLogin.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\DatabaseConnection.UserProfile.resources
+C:\LibrarySystem\LibrarySystem\DatabaseConnection\obj\Release\LibrarySystem.csproj.GenerateResource.Cache
